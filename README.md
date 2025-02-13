@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adrianxlopez
 - 👀 I’m interested in Biology
-- 🌱 I’m currently learning Python, C, and Data visualization  
+- 🌱 I’m currently learning Python, C/C++, and R.
 - 💞️ I’m looking to collaborate on bioinformatic projects. 
 - 📫 How to reach me https://www.linkedin.com/in/adrian-lopez-ucsc-/
 - 😄 Pronouns: He/Him/His
